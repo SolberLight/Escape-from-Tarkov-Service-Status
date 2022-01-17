@@ -1,7 +1,8 @@
-# LOL-Service-Status
-[`Download`](https://github.com/Sigmanor/LOL-Service-Status/releases/latest/) | [`Release Notes`](https://github.com/Sigmanor/LOL-Service-Status/wiki/Release-Notes)   | [`Documentation(ENG)`](https://github.com/Sigmanor/LOL-Service-Status/wiki/LOL-Service-Status-%28ENG%29) | [`Documentation(RUS)`](https://github.com/Sigmanor/LOL-Service-Status/wiki/LOL-Service-Status-%28RUS%29)
+# Based on @sigmanor [`repo`](https://github.com/Sigmanor/LOL-Service-Status)
+# Escape from Tarkov - Service-Status
+[`Download`](https://github.com/Sigmanor/LOL-Service-Status/releases/latest/)
 
-Rainmeter skin to display League of Legends service status
+Rainmeter skin to display Escape from Tarkov service status
 
 ![](http://i.imgur.com/uF1mTUB.png)  
 
